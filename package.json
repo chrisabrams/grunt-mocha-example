@@ -1,0 +1,28 @@
+{
+  "author": "Chris Abrams",
+  "name": "grunt-mocha",
+  "title": "Grunt Mocha Example",
+  "description": "Exmaple of how grunt mocha fails",
+  "version": "0.1.0",
+  "engines": {
+    "node": ">=0.6"
+  },
+
+  "dependencies": {
+    "brunch":              "1.4.0",
+
+    "javascript-brunch": ">= 1.0 < 1.5",
+    "coffee-script-brunch": ">= 1.0 < 1.5",
+
+    "css-brunch": ">= 1.0 < 1.5",
+    "stylus-brunch": ">= 1.0 < 1.5",
+
+    "handlebars-brunch": ">= 1.0 < 1.5",
+
+    "uglify-js-brunch": ">= 1.0 < 1.5",
+    "clean-css-brunch": ">= 1.0 < 1.5",
+
+
+    "grunt-mocha":         "0.1.7"
+  }
+}
